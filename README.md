@@ -69,7 +69,7 @@ I specialize in Data Science, Machine Learning, and Deep Learning 🚀 Currently
   
   <!-- PyCharm icon with link to JetBrains PyCharm official website -->
   <a href="https://www.jetbrains.com/pycharm/" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" height="36" width="36" />
+    <img align="center" src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" height="50" width="50" />
   </a>
 </p>
 
