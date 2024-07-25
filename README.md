@@ -12,7 +12,6 @@ I specialize in Data Science, Machine Learning, and Deep Learning 🚀 Currently
 * 🧠  I'm learning Cloud Computing for ML & DL
 * 🤝  I'm open to collaborating on anything Machine Learning!
 * ⚡  So far, I have traveled to 18 countries and 24 states in the US.
-	@@ -16,7 +17,7 @@ I am a team lead at the Data Science Research Services unit, where we drive rese
 
 
 <p align="left">
