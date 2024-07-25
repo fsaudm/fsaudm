@@ -8,7 +8,7 @@ I specialize in Data Science, Machine Learning, and Deep Learning 🚀 Currently
 
 * 🌍  I'm based in United States
 * 🖥️  Check out my resume & portfolio at: [fsaudm.github.io](http://fsaudm.github.io/)
-* ✉️  You can contact me at: [gfs3@illinois.edu](mailto:gfs3@illinois.edu)
+* ✉️  You can contact me at: [gfs3@illinois.edu](mailto:gfs3@illinois.edu), or [farid.saud45@gmail.com](mailto:farid.saud45@gmail.com)
 * 🧠  I'm learning Cloud Computing for ML & DL
 * 🤝  I'm open to collaborating on anything Machine Learning!
 * ⚡  So far, I have traveled to 18 countries and 24 states in the US.
