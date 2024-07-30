@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/WKdWA04KRn58A/giphy.gif">
+</p>
+
+
 Data Scientist | Team Lead
 --------------------------
 
@@ -16,8 +21,3 @@ I specialize in Data Science, Machine Learning, and Deep Learning 🚀 Currently
 
 </p>
 
---------------------------
-
-<p align="center">
-  <img src="https://media.giphy.com/media/WKdWA04KRn58A/giphy.gif">
-</p>
