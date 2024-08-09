@@ -6,7 +6,9 @@
 Data Scientist | Team Lead
 --------------------------
 
-I specialize in Data Science, Machine Learning, and Deep Learning 🚀 Currently, I am a team lead at the [Data Science Research Services](https://dsrs.illinois.edu/) unit, where we drive research within the GIES College of Business by assisting students, faculty, and staff with their data science, machine learning, computational infrastructure, and data acquisition needs. I am also pursuing a Master of Science in Statistics at the University of Illinois at Urbana-Champaign.
+I specialize in Data Science, Machine Learning, and Deep Learning! 🚀 
+<br>
+Currently, I am a team manager at the [Data Science Research Services](https://dsrs.illinois.edu/) unit, where we drive research within the GIES College of Business by assisting students, faculty, and staff with their data science, machine learning, computational infrastructure, and data acquisition needs. I am also pursuing a Master of Science in Statistics at the University of Illinois at Urbana-Champaign.
 
 * 🌍  I'm based in United States
 * 🖥️  Check out my resume & portfolio at: [fsaudm.github.io](http://fsaudm.github.io/)
