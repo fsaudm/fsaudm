@@ -13,7 +13,7 @@ Currently, I am a team manager at the [Data Science Research Services](https://d
 * 🌍  I'm based in United States
 * 🖥️  Check out my resume & portfolio at: [fsaudm.github.io](http://fsaudm.github.io/)
 * ✉️  You can contact me at: [gfs3@illinois.edu](mailto:gfs3@illinois.edu), or [farid.saud45@gmail.com](mailto:farid.saud45@gmail.com)
-* 🧠  I'm learning Cloud Computing for ML & DL
+* 🧠  Currently learning about quantization and using tons of HuggingFace
 * 🤝  I'm open to collaborating on anything Machine Learning!
 * ⚡  So far, I have traveled to 18 countries and 24 states in the US.
 
