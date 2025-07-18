@@ -6,13 +6,13 @@
 Data Scientist | Team Lead
 --------------------------
 
-I specialize in Data Science, Machine Learning, and Deep Learning! 🚀 Currently, I am a team manager at the [Data Science Research Services](https://dsrs.illinois.edu/) unit, where we drive research within the GIES College of Business by assisting students, faculty, and staff with their data science, machine learning, computational infrastructure, and data acquisition needs. I am also pursuing a Master of Science in Statistics at the University of Illinois at Urbana-Champaign.
+I specialize in Data Science, Machine Learning, and Deep Learning! 🚀 Currently, I am a team manager at the [Data Science Research Services](https://dsrs.illinois.edu/) unit, where we drive research within the GIES College of Business by assisting students, faculty, and staff with their data science, AI, computational infrastructure, and data acquisition needs.
 
 * 🌍  I'm based in United States
 * 🖥️  Check out my resume & portfolio at: [fsaudm.github.io](http://fsaudm.github.io/)
 * ✉️  You can contact me at: [gfs3@illinois.edu](mailto:gfs3@illinois.edu), or [farid.saud45@gmail.com](mailto:farid.saud45@gmail.com)
-* 🧠  Currently learning about quantization, PEFT and using tons of HuggingFace
-* 🚀  vLLM for the win!! 🚀
+* 🧠  Currently experimenting with quantization, PEFT and using tons of HuggingFace
+* 🚀  vLLM + llama.cpp for the win!! 🚀
 * 🤝  I'm open to collaborating on anything Machine Learning!
 * ⚡  So far, I have traveled to 18 countries and 24 states in the US.
 
