@@ -14,7 +14,7 @@ I specialize in Data Science, Machine Learning, and Deep Learning! 🚀 Currentl
 * 🧠  Currently experimenting with quantization, PEFT and using tons of HuggingFace
 * 🚀  vLLM + llama.cpp for the win!! 🚀
 * 🤝  I'm open to collaborating on anything Machine Learning!
-* ⚡  So far, I have traveled to 18 countries and 24 states in the US.
+* ⚡  So far, I have traveled to 21 countries and 28 states in the US.
 
 
 <p align="left">
