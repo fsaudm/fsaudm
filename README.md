@@ -3,10 +3,10 @@
 </p>
 
 
-Data Scientist | Team Lead
+Data Scientist | AI Engineer 🚀
 --------------------------
 
-I specialize in Data Science, Machine Learning, and Deep Learning! 🚀 Currently, I am a team manager at the [Data Science Research Services](https://dsrs.illinois.edu/) unit, where we drive research within the GIES College of Business by assisting students, faculty, and staff with their data science, AI, computational infrastructure, and data acquisition needs.
+I specialize in Data Science, Machine Learning, and AI!  Currently, I am a team manager at the [Data Science Research Services](https://dsrs.illinois.edu/) unit, where we help researchers with their data, AI, and computational needs.
 
 * 🌍  I'm based in United States
 * 🖥️  Check out my resume & portfolio at: [fsaudm.github.io](http://fsaudm.github.io/)
@@ -14,7 +14,7 @@ I specialize in Data Science, Machine Learning, and Deep Learning! 🚀 Currentl
 * 🧠  Currently experimenting with quantization, PEFT and using tons of HuggingFace
 * 🚀  vLLM + llama.cpp for the win!! 🚀
 * 🤝  I'm open to collaborating on anything Machine Learning!
-* ⚡  So far, I have traveled to 21 countries and 28 states in the US.
+* ⚡  So far, I have traveled to 21 countries and 28 states in the US. (outdated for sure..)
 
 
 <p align="left">
